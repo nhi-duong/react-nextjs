@@ -26,10 +26,17 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Github command
 
+**Lấy code mới nhất từ Github**
+
+```cmd
+$ git pull -r
+```
+
 **Tạo nhánh mới**
 
 ```
-$ git checkout -b feat/layout-home-page
+$ git checkout -b branch name
+VD: git checkout -b feat/layout-home-page
 ```
 
 **Hiển thị toàn bộ những file đã được thay đổi**
